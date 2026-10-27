@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.clockapp.timer",
+    "sha256_cert_fingerprints": ["37:02:20:C2:7B:A8:E7:CF:6C:FB:76:62:26:9A:DB:42:95:AD:67:83:D1:90:22:27:72:F3:C9:66:CE:25:B4:BC"]
+  }
+}]
